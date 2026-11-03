@@ -24,6 +24,5 @@ Master in Management student in **Market Finance at ESCP Business School**, look
 |---|---|---|
 | **G10 FX Option Pricer** | Multi-leg FX option strategies: premium, Greeks, P&L at expiry | [Live demo](https://jojolap1.github.io/quant-finance-projects/fx-pricer.html) |
 | **SPX Implied Volatility Surface** | Implied vol surface rebuilt from listed SPX option quotes | [Notebook](https://github.com/Jojolap1/quant-finance-projects/blob/main/spx_implied_volatility_surface.ipynb) |
-| **Black-Scholes vs Heston** | How stochastic volatility generates smiles and skew | [Results](https://github.com/Jojolap1/quant-finance-projects#3-black-scholes-vs-heston) |
 
 **Tools:** Python, VBA, Excel, Bloomberg, Power BI · **Contact:** jonathan.phung@edu.escp.eu
