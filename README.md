@@ -16,7 +16,8 @@ Master in Management student in **Market Finance at ESCP Business School**, look
 
 ## Education
 
-**ESCP Business School** — Master in Management, Market Finance (2023 – 2027) · 
+**ESCP Business School** — Master in Management, Market Finance (2023 – 2027)
+
 **IPESUP** — Classe préparatoire ECG (2021 – 2023)
 
 ## Projects
