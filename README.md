@@ -1,6 +1,6 @@
 # Jonathan Phung
 
-Master in Management student in **Market Finance at ESCP Business School**, looking for an end-of-studies **Sales & Trading internship in Hong Kong or Singapore**.
+**Master in Market Finance student at ESCP Business School**, looking for an end-of-studies **Sales & Trading internship in Hong Kong or Singapore**.
 
 **Languages:** French, English, Mandarin
 
@@ -16,7 +16,7 @@ Master in Management student in **Market Finance at ESCP Business School**, look
 
 ## Education
 
-**ESCP Business School** — Master in Management, Market Finance (2023 – 2027)
+**ESCP Business School** — Master in Market Finance (2023 – 2027)
 
 **IPESUP** — Classe préparatoire ECG (2021 – 2023)
 
