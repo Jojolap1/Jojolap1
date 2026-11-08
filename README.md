@@ -26,5 +26,6 @@
 |---|---|---|
 | **G10 FX Option Pricer** | Interactive Python app: multi-leg FX options with a volatility smile, premium and Greeks | [Live app](https://jonathan-fx-pricer.streamlit.app) |
 | **SPX Implied Volatility Surface** | Implied vol surface rebuilt from listed SPX option quotes | [Notebook](https://github.com/Jojolap1/quant-finance-projects/blob/main/spx_implied_volatility_surface.ipynb) |
+| **Trade Idea: Conditional Long Correlation** *(in progress)* | S&P 500 dispersion signal tested on 25+ years; desk-style pitch with backtests | [Pitch](https://github.com/Jojolap1/quant-finance-projects/tree/main/trade-ideas/01-long-correlation) |
 
 **Tools:** Python, VBA, Excel, Bloomberg, Power BI · **Contact:** jonathan.phung@edu.escp.eu
