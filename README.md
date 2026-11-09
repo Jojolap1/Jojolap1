@@ -18,7 +18,9 @@
 
 **ESCP Business School** — Master in Market Finance (2023 – 2027)
 
-**IPESUP** — Classe préparatoire ECG (2021 – 2023)
+**IPESUP** — Preparatory Class ECG (2021 – 2023)
+
+**Lycée des Francs-Bourgeois** - French Baccalaureate with the Highest Honors (2018-2021)
 
 ## Projects
 
